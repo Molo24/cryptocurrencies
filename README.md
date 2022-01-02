@@ -6,6 +6,8 @@ The purpose of this project was to practice various unsupervised machine learnin
 
 In order to practice these concepts an analysis was conducted on the cryptocurrency market.
 
+Tools used: Python, Jupyter Notebook, Pandas, hvplot, plotly, sklearn (PCA & KMeans)
+
 ## Analysis
 - Preprocess the Data for PCA
 - Reduce Dimensions using PCA
